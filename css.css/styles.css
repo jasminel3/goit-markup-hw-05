@@ -712,6 +712,7 @@ p {
   align-items: center;
   opacity: 1;
   transition: opacity var(--transition);
+  visibility: visible;
 }
 
 .modal-content {
